@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-outer/static/css/main.24094114.css",
+    "main.js": "/react-outer/static/js/main.f2aa364f.js",
+    "static/media/sad.png": "/react-outer/static/media/sad.08b80ae9bcbf34ae38f7.png",
+    "static/media/cake.png": "/react-outer/static/media/cake.0755888e7bbcce40ed4f.png",
+    "static/media/cupcake.png": "/react-outer/static/media/cupcake.54c96575ad06b96eb368.png",
+    "static/media/bakery.png": "/react-outer/static/media/bakery.080a63f4fccb50105182.png",
+    "static/media/notebook.png": "/react-outer/static/media/notebook.713dbaaf0364b47fd44c.png",
+    "index.html": "/react-outer/index.html",
+    "main.24094114.css.map": "/react-outer/static/css/main.24094114.css.map",
+    "main.f2aa364f.js.map": "/react-outer/static/js/main.f2aa364f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24094114.css",
+    "static/js/main.f2aa364f.js"
+  ]
+}
