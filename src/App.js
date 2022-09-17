@@ -12,9 +12,9 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/home" element={<Home />} />
-          <Route path="/contacto" element={<Contacto />} />
+          <Route path="react-router/" element={<Home />} />
+          <Route path="react-router/home" element={<Home />} />
+          <Route path="react-router/contacto" element={<Contacto />} />
           <Route path="*" element={<NotFound />} />
         </Routes>        
       </BrowserRouter>
